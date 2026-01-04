@@ -1,0 +1,18 @@
+# Spring Boot
+application.properties
+application.yml
+
+# Profiles
+application-*.properties
+application-*.yml
+
+# Env
+.env
+
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
